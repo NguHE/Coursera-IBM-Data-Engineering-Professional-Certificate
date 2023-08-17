@@ -4,6 +4,8 @@ Coursera IBM Data Engineering Professional Certificate
 ## Link
 Course Link: https://www.coursera.org/professional-certificates/ibm-data-engineer
 
+Notes Link: [https://www.notion.so/nguhe/Coursera-IBM-Data-Engineering-Professional-Certificate-d6efb9e850b347db8369047186db1ff6?pvs=4](https://www.notion.so/nguhe/Coursera-IBM-Data-Engineering-Professional-Certificate-d6efb9e850b347db8369047186db1ff6?pvs=4)
+
 ## Learning Outcome
 - Master the most up-to-date practical skills and knowledge data engineers use in their daily roles
 - Learn to create, design, & manage relational databases & apply database administration (DBA) concepts to RDBMSs such as MySQL, PostgreSQL, & IBM Db2 
