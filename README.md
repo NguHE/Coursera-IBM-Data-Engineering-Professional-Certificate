@@ -19,7 +19,7 @@ Course 2: Python for Data Science, AI & Development
 
 Course 3: [Python Project for Data Engineering](https://github.com/NguHE/Coursera-IBM-Data-Engineering-Professional-Certificate/blob/main/Course%203:%20ETL_Engineer_Peer_Review_Assignment.ipynb)
 
-Course 4: Introduction to Relational Databases (RDBMS)
+Course 4: [Introduction to Relational Databases (RDBMS)](https://github.com/NguHE/Coursera-IBM-Data-Engineering-Professional-Certificate/tree/966903f390119eb66423bd7dedd23aeac73e42e9/Course%204%20-%20Introduction%20to%20Relational%20Databases)
 
 Course 5: Databases and SQL for Data Science with Python
 
